@@ -1,8 +1,8 @@
 ### Olá, me chamo Felipe Andres 👋
 ### Atualmente estudante de Ciências da Computação pela Universidade Federal do Maranhão 🏫
 #
-- 🔭 Desenvolvimento Back-End 
-- 🌱 Desenvolvimento de APIs REST em Spring boot e Segmentação de imagens com redes neurais convolucionais
+- 🔭 Desenvolvimento Front-End em React 
+- 🌱 Desenvolvimento de APIs REST em Spring boot, Laravel e Segmentação de imagens com redes neurais convolucionais
 
 
 
