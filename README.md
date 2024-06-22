@@ -1,10 +1,6 @@
 <h1 align="center">Olá 👋, me chamo Felipe Andrès</h1>
 <h3 align="center">Atualmente trabalho como desenvolvedor frontend pela Superintendência de Saúde Digital,Secretaria de Estado da Saúde do Maranhão (SES-MA). Também sou graduando em Ciência da Computação pela Universidade Federal do Maranhão (UFMA).</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=feandres&label=Profile%20views&color=0e75b6&style=flat" alt="feandres" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=feandres" alt="feandres" /></a> </p>
-
 - 🌱 I’m currently learning **React, Laravel, Web Development in general**
 
 - 📫 How to reach me **felipevsconcelos@gmail.com**
@@ -19,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feandres&show_icons=true&locale=en&layout=compact" alt="feandres" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feandres&show_icons=true&locale=en" alt="feandres" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=feandres&" alt="feandres" /></p>
