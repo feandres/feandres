@@ -24,11 +24,11 @@
 
 ###
 
-<h3 align="left">Backend</h3>
+<h3 align="center">Backend</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
@@ -36,11 +36,11 @@
 
 ###
 
-<h3 align="left">Frontend</h3>
+<h3 align="center">Frontend</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -54,11 +54,11 @@
 
 ###
 
-<h3 align="left">DB</h3>
+<h3 align="center">DB</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
@@ -66,11 +66,11 @@
 
 ###
 
-<h3 align="left">Extras</h3>
+<h3 align="center">Extras</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -101,7 +101,7 @@
 
 ###
 
-<h2 align="left">Some stats</h2>
+<h2 align="center">Some stats</h2>
 
 ###
 
