@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">👨‍💻 Working:<br>- Frontend development with React, HTML, CSS, and TypeScript;<br>- Component libraries like Shadcn;<br>- Version control with Git, GitLab(working on it), and GitHub<br>- GitFlow and Conventional commits;<br><br>🌱 Studying:<br>- Laravel and Symfony<br>- Microservices<br>- MVC<br>- Design Patterns<br>- UX/UI thinking <br>- Docker <br>- CI/CD with Jenkins</p>
+<p align="left">👨‍💻 Working:<br>- Fullstack development with React, TypeScript, PHP and Laravel;<br>- Component libraries like Shadcn;<br>- Version control with Git, GitLab(working on it), and GitHub<br>- GitFlow and Conventional commits;<br><br>🌱 Studying:<br>- Laravel and Symfony<br>- Microservices<br>- MVC<br>- Design Patterns<br>- UX/UI thinking <br>- Docker <br>- CI/CD with Jenkins</p>
 
 ###
 
